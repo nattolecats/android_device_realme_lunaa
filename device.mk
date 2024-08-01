@@ -59,7 +59,7 @@ PRODUCT_PACKAGES += \
 
 # Sensors
 PRODUCT_PACKAGES += \
-    vendor.lineage.oplus_als.service
+    vendor.lineage.oplus_als.service-lunaa
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
